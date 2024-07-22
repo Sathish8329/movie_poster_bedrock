@@ -1,4 +1,4 @@
-create - s3 bucket - movieposterdesgin02
+create - s3 bucket - movieposterdesgin03
 
 create - lambda - moviePosterDesignFunction
 python 3.11
