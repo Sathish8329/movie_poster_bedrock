@@ -6,3 +6,5 @@ python 3.11
 configuration - general configuration - change the timeout to 1 min and 3 seconds
 
 permission - click the role - add permission - attach - admissionaccess (for timebeing) - in real time give the required access alone
+
+create an event in the name prompt test and key1 and value change to "prompt": 'image of a dog' to test every line we do
