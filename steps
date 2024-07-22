@@ -1,0 +1,8 @@
+create - s3 bucket - movieposterdesgin02
+
+create - lambda - moviePosterDesignFunction
+python 3.11
+
+configuration - general configuration - change the timeout to 1 min and 3 seconds
+
+permission - click the role - add permission - attach - admissionaccess (for timebeing) - in real time give the required access alone
